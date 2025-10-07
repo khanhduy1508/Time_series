@@ -13,12 +13,16 @@ Repository bao gồm mã nguồn, dữ liệu và notebook phục vụ cho quá 
 ## Cấu trúc thư mục
 
 Time_series/
+│
 ├── image/
 │ └── ... (hình ảnh minh họa, biểu đồ kết quả)
+│
 ├── predict-stock-market-using-machinglearning-deeplearning-master/
 │ └── ... (mã nguồn mô hình Machine Learning / Deep Learning)
+│
 ├── stock-historical-data/
 │ └── ... (dữ liệu lịch sử, định dạng CSV)
+│
 ├── VCB-History.csv
 ├── model.ipynb
 └── README.md
